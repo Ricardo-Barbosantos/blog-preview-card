@@ -57,6 +57,7 @@ body {
 
 .text-container__p {
     margin-top: 10px;
+    color: var(--Gray500);
 }
 
 .text-container {
