@@ -64,6 +64,17 @@ body {
     font-weight: 500;
 }
 
+.text-container__hover {
+    transition: 0.3s ease;
+}
+
+.text-container__hover:hover {
+    color: var(--Yellow);
+    cursor: pointer;
+}
+
+
+
 .my-profile {
     margin-top: 25px;
     width: 45px;
